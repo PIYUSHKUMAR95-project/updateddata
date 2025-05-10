@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Welcome to my hard earned website")
 st.header("Python")
-st.subheader("Java")
+st.subheader("It is the best language to learn")
 st.markdown("I love python")
 st.code("""for i in range(1,5,1):
                 print("Hello")
